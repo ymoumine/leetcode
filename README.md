@@ -7,7 +7,7 @@ _Tracking checkboxes can be used by forking this repository and marking an X ins
 _After forking this repository, allow Actions by going to the "Actions" tab, in order to enable the github action, that runs the python script auto-updating the following total count of resolved problems._
 
 ## ✅ Progress
-- Total completed tasks: **{checked_count}**
+- Total completed tasks: **4**
 
 ## Sliding Window
 - [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
