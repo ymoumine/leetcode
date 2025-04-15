@@ -44,7 +44,7 @@
 
 - [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
-- [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [X] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
@@ -178,6 +178,8 @@
 
 ## Dynamic Programming
 
+- [X] [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/solutions/127407/maximum-length-of-repeated-subarray/)
+      
 - [ ] [0/1 Knapsack]()?
 
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
@@ -412,12 +414,15 @@
 
 ## Challenge Yourself
 
+- [X] [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
+- [X] [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
+- [X] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 - [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
@@ -433,7 +438,6 @@
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
-- [X] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Permutations II](https://leetcode.com/problems/permutations-ii/)
 - [ ] [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
