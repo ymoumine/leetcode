@@ -4,7 +4,7 @@
 - _After forking this repository, enable **Read and write permissions** for the GITHUB_TOKEN in **"Actions > General"** tab, in order to allow the python script to write and update the following total count of resolved problems._
 
 ## ✅ Progress
-- Total completed tasks: **8**
+- Total completed tasks: **8/211**
 
 ## Sliding Window
 - [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
