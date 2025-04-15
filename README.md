@@ -2,7 +2,7 @@
 
 _Tracking checkboxes can be used by forking this repository and marking an X inside the appropriate brackets. Here is an example:_
 - [ ] Unsolved
-- [X] Solved
+- [] Solved
       
 _After forking this repository, allow Actions by going to the "Actions" tab, in order to enable the github action, that runs the python script auto-updating the following total count of resolved problems._
 
