@@ -1,10 +1,7 @@
 # Tracking LeetCode Problems from Grokking the Coding Interview Patterns 
 
-_Tracking checkboxes can be used by forking this repository and marking an X inside the appropriate brackets. Here is an example:_
-- [ ] Unsolved
-- [] Solved
-      
-_After forking this repository, allow Actions by going to the "Actions" tab, in order to enable the github action, that runs the python script auto-updating the following total count of resolved problems._
+- _Tracking checkboxes can be used by forking this repository and marking an X inside the appropriate brackets._
+- _After forking this repository, enable **Read and write permissions** for the GITHUB_TOKEN in **"Actions > General"** tab, in order to allow the python script to write and update the following total count of resolved problems._
 
 ## ✅ Progress
 - Total completed tasks: **4**
