@@ -10,7 +10,7 @@ def update_readme(file_path):
     # Replace the placeholder with the actual count
     updated = re.sub(
         r"Total completed tasks: \*\*.*?\*\*",
-        f"Total completed tasks: **{checked}/{unchecked}**",
+        f"Total completed tasks: **{checked}/{unchecked + checked}**",
         content
     )
 
