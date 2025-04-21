@@ -7,13 +7,13 @@
 - Total completed tasks: **8/219**
 
 ## Sliding Window
-- [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
+- [X] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
 
-- [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
+- [X] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+      
+- [X] [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
 
 - [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
-
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
@@ -278,6 +278,7 @@
 
 ## Tree Depth First Search
 
+
 - [ ] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
@@ -414,6 +415,7 @@
 
 ## Challenge Yourself
 
+- [X] [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)
 - [X] [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
 - [X] [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 - [X] [Unique Paths](https://leetcode.com/problems/unique-paths/)
