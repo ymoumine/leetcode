@@ -38,11 +38,11 @@
 
 - [X] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
-- [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
+- [X] [Happy Number](https://leetcode.com/problems/happy-number/)
 
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
-- [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
+- [X] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
 - [X] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
