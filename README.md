@@ -52,9 +52,9 @@
 
 ## Merge Intervals
 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [X] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
 - [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 
@@ -281,13 +281,13 @@
 
 - [ ] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
-- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [X] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
 - [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [X] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 - [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
 
@@ -305,7 +305,7 @@
 
 ## Tree Breadth First Search
 
-- [ ] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
 - [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
