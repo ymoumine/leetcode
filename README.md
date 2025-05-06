@@ -421,6 +421,7 @@
 - [X] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [X] [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
+- [X] [Build Array from Permutation](https://leetcode.com/submissions/detail/1626606118/)
 - [ ] [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 - [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
